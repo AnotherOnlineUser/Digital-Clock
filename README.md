@@ -15,9 +15,6 @@ This is a basic digital clock website created using HTML, CSS, and JavaScript. T
 - Shows AM/PM based on the time of the day
 - Responsive and simple design
 
-## 📂 Project Structure
-
-├── index.html # Main HTML file ├── style.css # CSS file for styling └── script.js # JavaScript file to handle time logic
 
 ## 🚀 How to Run
 
